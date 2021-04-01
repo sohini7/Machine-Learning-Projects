@@ -12,3 +12,4 @@ Titanic Dataset       : Logistic Regression
 
 Wine Quality Dataset  : Decision Tree and Random Forest
 
+Boston Dataset        : Linear Regression
