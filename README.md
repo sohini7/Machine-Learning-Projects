@@ -10,6 +10,8 @@ Loan Dataset          : Decision Tree and Random Forest
 
 Titanic Dataset       : Logistic Regression
 
+Titanic Dataset       : Logistic Regression (final file considers Pclass dummy variables and compares accuracy)
+
 Wine Quality Dataset  : Decision Tree and Random Forest
 
 Boston Dataset        : Linear Regression
