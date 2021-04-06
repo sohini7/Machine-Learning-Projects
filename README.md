@@ -17,3 +17,9 @@ Wine Quality Dataset  : Decision Tree and Random Forest
 Boston Dataset        : Linear Regression
 
 Iris Dataset          : Support Vector Machine
+
+Iris Dataset          : Visual Decision Tree
+
+Iris Dataset          : Unsupervised ML
+
+Scores/Hours Dataset  : Supervised ML
